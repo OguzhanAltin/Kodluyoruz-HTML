@@ -1,6 +1,6 @@
 # **Kodluyoruz-HTML**
 
-Ilk Web Sayfam
+> Kodluyoruz egitimitinde ilerlettigim web sayfam
 
 # **Licence**
 
